@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "title": "1923 - அகநானூறு - இராஜகோபாலார்யன் பதிப்பு",
+      "author": "இராஜகோபாலார்யன்",
+      "authorUrl": "",
+      "level": "அகநானூறு",
+      "info": "1923 - அகநானூறு - இராஜகோபாலார்யன் பதிப்பு",
+      "url": "https://archive.org/download/aga_nanooru/1923- அகநானூறு, இராஜகோபாலார்யன் பதிப்பு1.pdf",
+      "cover": "https://ia801501.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/aga_nanooru/1923-%20%E0%AE%85%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B1%E0%AF%81%2C%20%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AF%E0%AE%A9%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%811_jp2.zip&file=1923-%20%E0%AE%85%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B1%E0%AF%81%2C%20%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AF%E0%AE%A9%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%811_jp2/1923-%20%E0%AE%85%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B1%E0%AF%81%2C%20%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AF%E0%AE%A9%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%811_0000.jp2&scale=4&rotate=0",
+      "tags": ["core"]
+    },
+    {
       "title": "Apuntes de Javascript I - Nivel Intermedio",
       "author": "JuanMa Garrido",
       "authorUrl": "https://leanpub.com/u/juanmanuelgarrido",
